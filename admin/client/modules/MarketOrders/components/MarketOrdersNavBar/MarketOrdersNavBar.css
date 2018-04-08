@@ -1,0 +1,6 @@
+.cointain >div {
+  width: 100% !important;
+}
+.customCheckbox > label > input {
+  margin-top: 2px;
+}
